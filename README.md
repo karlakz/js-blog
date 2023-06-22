@@ -3,3 +3,4 @@ Personal blog at: https://karlakz.hashnode.dev/
 
 ## Table of Contents
 1. [What is hoisting in JS](../../tree/what-is-hoisting)
+2. [Constants declared with const](../../tree/constants-declared-with-const)
